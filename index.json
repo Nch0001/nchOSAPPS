@@ -6,7 +6,7 @@
       "version": "1.0.0",
       "author": "Nyx",
       "description": "Refined Storage monitor",
-      "download": "https://YOUR_USERNAME.github.io/NchStore/apps/rstorage.lua"
+      "download":  "https://raw.githubusercontent.com/nch0001/nchOSAPPS/main/apps/rStorage.lua"
     }
   ]
 }
