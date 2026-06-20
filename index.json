@@ -1,1 +1,12 @@
-
+{
+  "apps": [
+    {
+      "id": "rstorage",
+      "name": "RStorage",
+      "version": "1.0.0",
+      "author": "Nyx",
+      "description": "Refined Storage monitor",
+      "download": "https://YOUR_USERNAME.github.io/NchStore/apps/rstorage.lua"
+    }
+  ]
+}
