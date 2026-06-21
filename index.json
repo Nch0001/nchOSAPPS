@@ -4,9 +4,17 @@
       "id": "rstorage",
       "name": "RStorage",
       "version": "1.0.0",
-      "author": "Nyx",
+      "author": "Nch",
       "description": "Refined Storage monitor",
       "download": "https://raw.githubusercontent.com/nch0001/nchOSAPPS/main/apps/rsStorage.lua"
+    },
+    {
+      "id": "nchstore",
+      "name": "NchStore",
+      "version": "1.0.0",
+      "author": "Nch",
+      "description": "Default App Store",
+      "download": "https://raw.githubusercontent.com/nch0001/nchOSAPPS/main/apps/0_store.lua"
     }
   ]
 }
